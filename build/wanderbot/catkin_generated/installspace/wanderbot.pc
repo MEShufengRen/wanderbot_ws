@@ -1,0 +1,8 @@
+prefix=/home/rsf/wanderbot_ws/install
+
+Name: wanderbot
+Description: Description of wanderbot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/rsf/wanderbot_ws/install/lib 
+Requires: geometry_msgs rospy sensor_msgs message_runtime
